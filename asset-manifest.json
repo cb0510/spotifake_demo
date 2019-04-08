@@ -1,0 +1,19 @@
+{
+  "main.css": "/spotifake_demo/static/css/main.ccd13b1b.chunk.css",
+  "main.js": "/spotifake_demo/static/js/main.4f01886b.chunk.js",
+  "main.js.map": "/spotifake_demo/static/js/main.4f01886b.chunk.js.map",
+  "runtime~main.js": "/spotifake_demo/static/js/runtime~main.24369df7.js",
+  "runtime~main.js.map": "/spotifake_demo/static/js/runtime~main.24369df7.js.map",
+  "static/css/2.e9a251a9.chunk.css": "/spotifake_demo/static/css/2.e9a251a9.chunk.css",
+  "static/js/2.79e2bed6.chunk.js": "/spotifake_demo/static/js/2.79e2bed6.chunk.js",
+  "static/js/2.79e2bed6.chunk.js.map": "/spotifake_demo/static/js/2.79e2bed6.chunk.js.map",
+  "index.html": "/spotifake_demo/index.html",
+  "precache-manifest.06109dd89f47828a547404bb694b8857.js": "/spotifake_demo/precache-manifest.06109dd89f47828a547404bb694b8857.js",
+  "service-worker.js": "/spotifake_demo/service-worker.js",
+  "static/css/2.e9a251a9.chunk.css.map": "/spotifake_demo/static/css/2.e9a251a9.chunk.css.map",
+  "static/css/main.ccd13b1b.chunk.css.map": "/spotifake_demo/static/css/main.ccd13b1b.chunk.css.map",
+  "static/media/Spotify_Icon_RGB_Black.png": "/spotifake_demo/static/media/Spotify_Icon_RGB_Black.b818d523.png",
+  "static/media/cover-small.jpeg": "/spotifake_demo/static/media/cover-small.17eb45df.jpeg",
+  "static/media/noimage.png": "/spotifake_demo/static/media/noimage.c2679478.png",
+  "static/media/temp.gif": "/spotifake_demo/static/media/temp.8b247528.gif"
+}
